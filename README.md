@@ -101,7 +101,7 @@ All tools now include `anti_detect.py` which provides:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/ThanhNguyxn/SheerID-Verification-Tool.git
+    git clone https://github.com/dipuakhando770/SheerID-Verification-Tool.git
     cd SheerID-Verification-Tool
     ```
 
